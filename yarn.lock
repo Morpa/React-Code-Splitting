@@ -7678,10 +7678,10 @@ ms@2.1.2, ms@^2.1.1:
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.1.2.tgz#d09d1f357b443f493382a8eb3ccd183872ae6009"
   integrity sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==
 
-mui-datatables@^3.8.4:
-  version "3.8.4"
-  resolved "https://registry.yarnpkg.com/mui-datatables/-/mui-datatables-3.8.4.tgz#69476183fd28410eb571fbdd9f9f32a53c9b6c64"
-  integrity sha512-cptI4UnV0ZZl4NM4w1ArQU/bF2vUmCcDer9S6Bx8L6Z2f6YWg21u6Jh/eGtE7nnHchNXMyQDxDE52CAt0Ra48Q==
+mui-datatables@^3.8.5:
+  version "3.8.5"
+  resolved "https://registry.yarnpkg.com/mui-datatables/-/mui-datatables-3.8.5.tgz#c9940edc8499b3bad52588ea20c350c2544b23ca"
+  integrity sha512-VS54Xkm5eXsPOUvzG3vXVjgSd2/nswwvhMK2D4PiHpV5MRJwfc6mdyuskh3s3jUi3NC8N+u7NsxX4pY14qaoKQ==
   dependencies:
     "@babel/runtime-corejs3" "^7.12.1"
     clsx "^1.1.1"

@@ -54,6 +54,6 @@
   "devDependencies": {
     "@babel/helper-call-delegate": "^7.12.13",
     "prettier": "^3.1.0",
-    "webpack-bundle-analyzer": "^4.9.1"
+    "webpack-bundle-analyzer": "^4.10.1"
   }
 }

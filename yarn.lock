@@ -8913,10 +8913,10 @@ raw-body@2.4.0:
     iconv-lite "0.4.24"
     unpipe "1.0.0"
 
-react-apexcharts@^1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/react-apexcharts/-/react-apexcharts-1.5.0.tgz#ae6a3dc2091a5e299e5b86c1a653cf2f55884723"
-  integrity sha512-RwIqhYee8tT6WsDR9I15bhDuPitM+z/P092QPttFR5D57M21/WtYKHE9JQMbcz9bmF35rfDSym1SZuZ7AhidhQ==
+react-apexcharts@^1.7.0:
+  version "1.7.0"
+  resolved "https://registry.yarnpkg.com/react-apexcharts/-/react-apexcharts-1.7.0.tgz#bbd08425674224adb27c9f2c62477d43bd5de539"
+  integrity sha512-03oScKJyNLRf0Oe+ihJxFZliBQM9vW3UWwomVn4YVRTN1jsIR58dLWt0v1sb8RwJVHDMbeHiKQueM0KGpn7nOA==
   dependencies:
     prop-types "^15.8.1"
 
